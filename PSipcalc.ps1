@@ -1,3 +1,4 @@
+#!/usr/bin/pwsh
 #requires -version 2
 [CmdletBinding()]
 param(
